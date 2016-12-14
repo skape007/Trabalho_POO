@@ -1,0 +1,116 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Atributos.cpp
+Atributos.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Atributos.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Atributos.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.cpp
+Celula.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.h
+vector
+-
+ElementoJogo.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.cpp
+Colonia.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.h
+ElementoJogo.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.h
+iostream
+-
+Inimigos.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Inimigos.h
+vector
+-
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.cpp
+Consola.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.h
+windows.h
+-
+stdio.h
+-
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.h
+windows.h
+-
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.cpp
+ElementoJogo.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.h
+Colonia.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Inimigos.cpp
+Inimigos.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Inimigos.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Inimigos.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.cpp
+Interface.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.h
+iostream
+-
+vector
+-
+string
+-
+Jogo.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Jogo.h
+Celula.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.h
+Consola.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.h
+Ser.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.h
+sstream
+-
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Jogo.cpp
+Jogo.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Jogo.h
+Interface.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Jogo.h
+iostream
+-
+Celula.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.h
+Colonia.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.h
+Consola.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.h
+Ser.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.cpp
+Ser.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.h
+Colonia.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.h
+
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/main.cpp
+Interface.h
+C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.h
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Castle_War"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Castle_War">
+				<Option output="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Castle_War.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include-fixed"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/mingw/mingw32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/mingw/mingw32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw/mingw32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 Castle_War"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Castle_War/fast">
+				<Option output="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Castle_War.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/include-fixed"/>
+					<Add directory="C:/mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/5.4.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/mingw/mingw32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/mingw/mingw32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw/mingw32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 Castle_War/fast"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Atributos.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Atributos.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Celula.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Colonia.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Consola.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/ElementoJogo.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Inimigos.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Inimigos.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Interface.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Jogo.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Jogo.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/Ser.h">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/main.cpp">
+			<Option target="Castle_War"/>
+		</Unit>
+		<Unit filename="C:/Users/Antonio Gomes/Dropbox/pessoal/Dropbox/POO/antonio/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
